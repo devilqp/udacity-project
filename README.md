@@ -1,2 +1,4 @@
-# udacity-project
-Collection of projects for Data Engineering Nanodegree Program
+# Udacity Project - Data Engineer Nanodegree
+Collection of projects about Data Engineering Nanodegree Program
+
+1. Data Modeling Postgres
