@@ -2,4 +2,5 @@ __pycache__
 .ipynb_checkpoints
 .DS_Store
 dwh.cfg
+dl.cfg
 3.DataWarehouseAWS/*.ipynb
